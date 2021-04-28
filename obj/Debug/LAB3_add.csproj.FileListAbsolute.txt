@@ -1,0 +1,18 @@
+E:\KS19\University\OOP\4 semestr\LAB3_add\bin\Debug\LAB3_add.exe.config
+E:\KS19\University\OOP\4 semestr\LAB3_add\bin\Debug\LAB3_add.exe
+E:\KS19\University\OOP\4 semestr\LAB3_add\bin\Debug\LAB3_add.pdb
+E:\KS19\University\OOP\4 semestr\LAB3_add\obj\Debug\LAB3_add.csprojAssemblyReference.cache
+E:\KS19\University\OOP\4 semestr\LAB3_add\obj\Debug\LAB3_add.csproj.GenerateResource.cache
+E:\KS19\University\OOP\4 semestr\LAB3_add\obj\Debug\LAB3_add.csproj.CoreCompileInputs.cache
+E:\KS19\University\OOP\4 semestr\LAB3_add\obj\Debug\LAB3_add.exe
+E:\KS19\University\OOP\4 semestr\LAB3_add\obj\Debug\LAB3_add.pdb
+E:\KS19\University\OOP\4 semestr\LAB3_add\obj\Debug\LAB3_add.Form1.resources
+C:\Users\228\Desktop\LAB3_add\bin\Debug\LAB3_add.exe.config
+C:\Users\228\Desktop\LAB3_add\bin\Debug\LAB3_add.exe
+C:\Users\228\Desktop\LAB3_add\bin\Debug\LAB3_add.pdb
+C:\Users\228\Desktop\LAB3_add\obj\Debug\LAB3_add.csprojAssemblyReference.cache
+C:\Users\228\Desktop\LAB3_add\obj\Debug\LAB3_add.Form1.resources
+C:\Users\228\Desktop\LAB3_add\obj\Debug\LAB3_add.csproj.GenerateResource.cache
+C:\Users\228\Desktop\LAB3_add\obj\Debug\LAB3_add.csproj.CoreCompileInputs.cache
+C:\Users\228\Desktop\LAB3_add\obj\Debug\LAB3_add.exe
+C:\Users\228\Desktop\LAB3_add\obj\Debug\LAB3_add.pdb
